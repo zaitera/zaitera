@@ -1,5 +1,5 @@
+![](https://komarev.com/ghpvc/?username=abdullah-zaiter&color=blueviolet)
 ### Hi there 👋
-
 - 📚 Mechatronics Engineer - University of Brasilia
 - 🔭 Currently working on POS Payment Systems  
 - 🌱 Learning Devops Engineering, OpenCV and Pytorch  
