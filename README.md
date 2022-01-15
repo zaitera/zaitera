@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👨‍💻 Software Engineer
 - 📚 Graduated in Mechatronics Engineering from the University of Brasilia
-- 🔭 Currently working on Android-based payment solutions 
+- 🔭 Currently working on Python and Embedded C++
 - 🌱 Learning DevOps and Backend Development
 - 👯 Looking forward to work with Mobile Development, Backend Development or Machine Learning. My thirst for knowledge makes me always be open to new technologies, so I'm not restricted only to these  
 - ⚡ Fun fact: I have multiple citizenships and impressed by the way humans mix and socialize. I love to read about psychology and how our brains work 
